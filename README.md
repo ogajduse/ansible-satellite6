@@ -1,5 +1,5 @@
 # ansible-satellite6
-
+some fuzz, remove it
 Ansible playbooks for Satellite 6 systems' management.
 
 ## Setup
